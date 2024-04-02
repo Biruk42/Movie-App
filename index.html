@@ -4,7 +4,21 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
+    <script defer src="script.js"></script>
     <title>Movie App</title>
   </head>
-  <body></body>
+  <body>
+    <div class="container">
+      <div class="search-box">
+        <a href="">
+          <h1>Movie Collection</h1>
+        </a>
+        <form id="search-form">
+          <input type="text" id="search-input" placeholder="Search Movies" />
+          <button class="search-btn" type="submit">Search</button>
+        </form>
+      </div>
+      <div id="result"></div>
+    </div>
+  </body>
 </html>
