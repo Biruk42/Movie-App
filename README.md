@@ -11,4 +11,4 @@ Welcome to Movie App, your go-to destination for discovering and exploring movie
 
 ## Screenshots
 
-![Movie App Screenshot](movie app.png)
+![Movie App Screenshot](movie-app.png)
